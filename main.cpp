@@ -81,6 +81,26 @@ int main()
                 "Little lamb, little lamb\n"
                 "Mary had a little lamb\n"
                 "It's fleece was white as snow\n";
-  cout << fizzBuzzAlgo(text);
+  cout << fizzBuzzAlgo(text) << endl;
+
+  // test 2
+  string text2 = "Hello";
+  cout << fizzBuzzAlgo(text2) << endl;
+
+  // test 3 only whitespace
+  string text3 = "   \n \n";
+  cout << fizzBuzzAlgo(text3) << endl;
+
+  // Test 4:
+  string text4 = "one two three four five";
+  cout << fizzBuzzAlgo(text4) << endl;
+
+  // test 5
+  string text5 = "word1  word2   word3\n\nword4";
+  cout << fizzBuzzAlgo(text5) << endl;
+
+  // test 6
+  string text6 = "a b c d e f g h i j k l m n o p";
+  cout << fizzBuzzAlgo(text6) << endl;
   return 0;
 }
