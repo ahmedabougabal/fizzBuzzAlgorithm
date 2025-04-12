@@ -27,26 +27,29 @@ string fizzBuzzAlgo(string phrase)
     else
     {
       //! process completed words
-      if (word_index % 3 == 0 && word_index % 5 == 0)
+      if (!current_word.empty())
       {
-        result += "fizzbuzz";
+        if (word_index % 3 == 0 && word_index % 5 == 0)
+        {
+          result += "fizzbuzz";
+        }
+        else if (word_index % 3 == 0)
+        {
+          result += "fizz";
+        }
+        else if (word_index % 5 == 0)
+        {
+          result += "buzz";
+        }
+        else
+        {
+          result += current_word;
+        }
+        word_index++;
+        current_word = "";
       }
-      else if (word_index % 3 == 0)
-      {
-        result += "fizz";
-      }
-      else if (word_index % 5 == 0)
-      {
-        result += "buzz";
-      }
-      else
-      {
-        result += current_word;
-      }
-      word_index++;
-      current_word = "";
+      result += phrase[i];
     }
-    result += phrase[i];
   }
   if (!current_word.empty())
   {
@@ -66,7 +69,6 @@ string fizzBuzzAlgo(string phrase)
     {
       result += current_word;
     }
-    word_index++;
   }
   return result;
 }
