@@ -46,11 +46,13 @@ string fizzBuzzAlgo(string phrase)
           result += current_word;
         }
         word_index++;
-        current_word = "";
+        current_word = ""; // reset the word to check a new one
       }
+      // push the whitespace to the result to maintain intended output
       result += phrase[i];
     }
   }
+  // the last if condition is to check for the last word
   if (!current_word.empty())
   {
     if (word_index % 3 == 0 && word_index % 5 == 0)
