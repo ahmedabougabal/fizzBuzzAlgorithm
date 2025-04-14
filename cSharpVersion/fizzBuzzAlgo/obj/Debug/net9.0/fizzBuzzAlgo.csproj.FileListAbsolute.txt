@@ -1,0 +1,15 @@
+D:\akvelon\fizzBuzzAlgorithm\cSharpVersion\fizzBuzzAlgo\obj\Debug\net9.0\fizzBuzzAlgo.GeneratedMSBuildEditorConfig.editorconfig
+D:\akvelon\fizzBuzzAlgorithm\cSharpVersion\fizzBuzzAlgo\obj\Debug\net9.0\fizzBuzzAlgo.AssemblyInfoInputs.cache
+D:\akvelon\fizzBuzzAlgorithm\cSharpVersion\fizzBuzzAlgo\obj\Debug\net9.0\fizzBuzzAlgo.AssemblyInfo.cs
+D:\akvelon\fizzBuzzAlgorithm\cSharpVersion\fizzBuzzAlgo\obj\Debug\net9.0\fizzBuzzAlgo.csproj.CoreCompileInputs.cache
+D:\akvelon\fizzBuzzAlgorithm\cSharpVersion\fizzBuzzAlgo\obj\Debug\net9.0\fizzBuzzAlgo.sourcelink.json
+D:\akvelon\fizzBuzzAlgorithm\cSharpVersion\fizzBuzzAlgo\bin\Debug\net9.0\fizzBuzzAlgo.exe
+D:\akvelon\fizzBuzzAlgorithm\cSharpVersion\fizzBuzzAlgo\bin\Debug\net9.0\fizzBuzzAlgo.deps.json
+D:\akvelon\fizzBuzzAlgorithm\cSharpVersion\fizzBuzzAlgo\bin\Debug\net9.0\fizzBuzzAlgo.runtimeconfig.json
+D:\akvelon\fizzBuzzAlgorithm\cSharpVersion\fizzBuzzAlgo\bin\Debug\net9.0\fizzBuzzAlgo.dll
+D:\akvelon\fizzBuzzAlgorithm\cSharpVersion\fizzBuzzAlgo\bin\Debug\net9.0\fizzBuzzAlgo.pdb
+D:\akvelon\fizzBuzzAlgorithm\cSharpVersion\fizzBuzzAlgo\obj\Debug\net9.0\fizzBuzzAlgo.dll
+D:\akvelon\fizzBuzzAlgorithm\cSharpVersion\fizzBuzzAlgo\obj\Debug\net9.0\refint\fizzBuzzAlgo.dll
+D:\akvelon\fizzBuzzAlgorithm\cSharpVersion\fizzBuzzAlgo\obj\Debug\net9.0\fizzBuzzAlgo.pdb
+D:\akvelon\fizzBuzzAlgorithm\cSharpVersion\fizzBuzzAlgo\obj\Debug\net9.0\fizzBuzzAlgo.genruntimeconfig.cache
+D:\akvelon\fizzBuzzAlgorithm\cSharpVersion\fizzBuzzAlgo\obj\Debug\net9.0\ref\fizzBuzzAlgo.dll
